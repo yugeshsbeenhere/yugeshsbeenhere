@@ -16,10 +16,7 @@ Here are some ideas to get you started:
   <h1>Hey 👋 I'm Yugesh</h1>
   <p>
     <a href="https://analyticsindiamag.com/author/yugesh-vermaanalyticsindiamag-com/">Blog</a>
-    <span> </span>
-   
-    <span> </span>
-    <a href="https://amit.dev">Portfolio</a>
+    
   </p>
   <p>
     <img src="https://img.shields.io/badge/Super Fast-%E2%9A%A1%EF%B8%8F-%23DD6B20?style=flat-square" />
