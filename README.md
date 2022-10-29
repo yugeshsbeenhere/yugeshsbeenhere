@@ -61,8 +61,4 @@ Lazy, Backbencher, Sleeping if not online.
 !pip install isolation 
 ```
 
-### Testing
 
-```python
-// Please don't
-```
