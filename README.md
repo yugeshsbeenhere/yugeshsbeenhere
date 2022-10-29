@@ -57,7 +57,7 @@ Lazy, Backbencher, Sleeping if not online.
 ### Development
 
 ```bash
-npm run coffee
+!pip install isolation 
 ```
 
 ### Testing
