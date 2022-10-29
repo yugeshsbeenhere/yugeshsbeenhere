@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Features
 
-* Quick and accurate machine learning models
+* Building accurate machine learning models
 * I can read code.
 
 ## Technologies
@@ -48,7 +48,8 @@ Time Series  Analysis & Classification and Regression Modelling.
 
 ## 📫 How to reach me: ...
 * Email : yugverma121@gmail.com
-* LinkedIn :https://www.linkedin.com/in/yugeshverma
+* LinkedIn : https://www.linkedin.com/in/yugeshverma
+* Twitter : https://twitter.com/chikku4567
 
 
 ## ⚡ Fun fact: 
