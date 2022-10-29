@@ -21,15 +21,15 @@ Here are some ideas to get you started:
   <p>
     <img src="https://img.shields.io/badge/Super Fast-%E2%9A%A1%EF%B8%8F-%23DD6B20?style=flat-square" />
     <span> </span>
-    <img src="https://img.shields.io/badge/maintained%20since-1992-%2300B0FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/maintained%20since-1994-%2300B0FF?style=flat-square" />
     <span> </span>
-    <img src="https://img.shields.io/badge/%F0%9F%92%9B-JavaScript-%23304FFE?style=flat-square" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%9B-DataScience-%23304FFE?style=flat-square" />
   </p>
 </div>
 
 ## Features
 
-* Quick and easy web apps
+* Quick and accurate machine learning models
 * I can read code.
 
 ## Technologies
