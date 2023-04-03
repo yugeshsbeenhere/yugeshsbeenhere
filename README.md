@@ -44,7 +44,7 @@ You can probably find related open source repositories 👆
 👯 I’m looking to collaborate on open source project
 
 ## 💬 Ask me about ...
-Time Series  Analysis & Classification and Regression Modelling.
+Time Series  Analysis, Classification and Computer Vision Modelling.
 
 ## 📫 How to reach me: ...
 * Email : yugverma121@gmail.com
